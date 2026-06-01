@@ -1,0 +1,5 @@
+name = "thefinalvaultv1"
+main = "workers-site"
+compatibility_date = "2026-06-01"
+type = "javascript"
+site = { bucket = "./dist" }
